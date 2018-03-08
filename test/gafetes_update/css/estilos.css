@@ -1,0 +1,104 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+@font-face {
+    font-family: hootl;
+    src: url(fonts/hootl.ttf);
+}
+
+body {
+  background: url(../images/bk.jpg) repeat;
+  border: 0;
+  margin: 0;
+  padding: 0;
+  font-family: hootl;
+  letter-spacing:1px;
+  color: #0f0;
+}
+
+a{color: #0f0;}
+
+.wrap { 
+  margin: 0 auto;
+  width: 80%;
+}
+
+input{font-family:hootl !important;}
+
+#header_main {
+	background: #bf007f;
+	margin: 15px 0;
+	text-align: center;
+	font-size: 25px;
+	border-radius: 10px;
+	line-height: 35px;
+	width: 100%;
+}
+
+div label {
+  width: 25%;
+  float: left;
+}
+
+#head_main{
+	background: none repeat scroll 0 0 #9b1b1b;
+    border: 1px solid #3d8f44;
+    border-radius: 10px;
+    float: left;
+    font-size: 20px;
+    padding: 2% 0;
+    text-align: center;
+    width: 100%;
+}
+
+#principal{
+	float: left;
+    margin: 2% 0;
+    width: 100%;
+}
+
+#principal #info{
+	background: none repeat scroll 0 0 #1f1f19;
+    border: 1px solid;
+    border-radius: 10px;
+    float: left;
+    padding: 2%;
+    width: 50%;
+}
+
+#principal #formulario{
+	float: left;
+    padding: 10% 0;
+    text-align: center;
+    vertical-align: middle;
+    width: 40%;
+}
+
+#boton button{
+	background: none repeat scroll 0 0 #55b;
+    border-radius: 5px;
+    padding: 1%;
+}
+
+img{width:100%;}
+
+@media (min-width: 320px) 
+  and (max-width: 480px) {
+	.wrap {
+		margin: 0 auto;
+		width: 95%;
+	}
+	
+	#info{
+		float:right !important;
+		width:95% !important;
+	}
+	
+	#formulario{
+		float:left !important;
+		width: 100% !important;
+	}
+}
+

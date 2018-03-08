@@ -1,0 +1,5 @@
+[02-May-2016 00:56:54 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/cbtis3/public_html/views/print_ficha.php on line 19
+[02-May-2016 00:56:58 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/cbtis3/public_html/views/print_ficha.php on line 19
+[02-May-2016 00:56:59 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/cbtis3/public_html/views/print_ficha.php on line 19
+[02-May-2016 00:57:01 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/cbtis3/public_html/views/print_ficha.php on line 19
+[02-May-2016 00:57:03 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/cbtis3/public_html/views/print_ficha.php on line 19
